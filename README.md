@@ -4,4 +4,4 @@
 <a href="https://dineshpatel3463.github.io/Traveling-Trails/" target="_blank"><strong>➥ Live Demo</strong></a>
 </div> <br/><br/>
 <b>Screenshots:</b> <br/><br/>
-<img src=""></img>
+<img src="https://github.com/DineshPatel3463/Traveling-Trails/blob/main/files/readme%20image/readmeimg.jpg"></img>
